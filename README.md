@@ -8,13 +8,13 @@ In our work, we further explore the impact of different numbers of estimators on
 
 authors with contact info
 
-diksha_krishnan@brown.edu
+Diksha Krishnan, diksha_krishnan@brown.edu
 
-dongyan_sun@brown.edu
+Dongyan Sun, dongyan_sun@brown.edu
 
-shen_yu@brown.edu
+Shen Yu, shen_yu@brown.edu
 
-xinyu_zhou1@brown.edu
+Xinyu Zhou, xinyu_zhou1@brown.edu
 
 Required library versions:
 
